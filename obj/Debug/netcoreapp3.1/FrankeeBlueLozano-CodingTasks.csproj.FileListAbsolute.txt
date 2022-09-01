@@ -1,0 +1,14 @@
+C:\Users\741039\Documents\Unity\Visual Studios Scripts\FrankeeBlueLozano-CodingTasks\FrankeeBlueLozano-CodingTasks\bin\Debug\netcoreapp3.1\FrankeeBlueLozano-CodingTasks.exe
+C:\Users\741039\Documents\Unity\Visual Studios Scripts\FrankeeBlueLozano-CodingTasks\FrankeeBlueLozano-CodingTasks\bin\Debug\netcoreapp3.1\FrankeeBlueLozano-CodingTasks.deps.json
+C:\Users\741039\Documents\Unity\Visual Studios Scripts\FrankeeBlueLozano-CodingTasks\FrankeeBlueLozano-CodingTasks\bin\Debug\netcoreapp3.1\FrankeeBlueLozano-CodingTasks.runtimeconfig.json
+C:\Users\741039\Documents\Unity\Visual Studios Scripts\FrankeeBlueLozano-CodingTasks\FrankeeBlueLozano-CodingTasks\bin\Debug\netcoreapp3.1\FrankeeBlueLozano-CodingTasks.runtimeconfig.dev.json
+C:\Users\741039\Documents\Unity\Visual Studios Scripts\FrankeeBlueLozano-CodingTasks\FrankeeBlueLozano-CodingTasks\bin\Debug\netcoreapp3.1\FrankeeBlueLozano-CodingTasks.dll
+C:\Users\741039\Documents\Unity\Visual Studios Scripts\FrankeeBlueLozano-CodingTasks\FrankeeBlueLozano-CodingTasks\bin\Debug\netcoreapp3.1\FrankeeBlueLozano-CodingTasks.pdb
+C:\Users\741039\Documents\Unity\Visual Studios Scripts\FrankeeBlueLozano-CodingTasks\FrankeeBlueLozano-CodingTasks\obj\Debug\netcoreapp3.1\FrankeeBlueLozano-CodingTasks.csproj.AssemblyReference.cache
+C:\Users\741039\Documents\Unity\Visual Studios Scripts\FrankeeBlueLozano-CodingTasks\FrankeeBlueLozano-CodingTasks\obj\Debug\netcoreapp3.1\FrankeeBlueLozano-CodingTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\741039\Documents\Unity\Visual Studios Scripts\FrankeeBlueLozano-CodingTasks\FrankeeBlueLozano-CodingTasks\obj\Debug\netcoreapp3.1\FrankeeBlueLozano-CodingTasks.AssemblyInfoInputs.cache
+C:\Users\741039\Documents\Unity\Visual Studios Scripts\FrankeeBlueLozano-CodingTasks\FrankeeBlueLozano-CodingTasks\obj\Debug\netcoreapp3.1\FrankeeBlueLozano-CodingTasks.AssemblyInfo.cs
+C:\Users\741039\Documents\Unity\Visual Studios Scripts\FrankeeBlueLozano-CodingTasks\FrankeeBlueLozano-CodingTasks\obj\Debug\netcoreapp3.1\FrankeeBlueLozano-CodingTasks.csproj.CoreCompileInputs.cache
+C:\Users\741039\Documents\Unity\Visual Studios Scripts\FrankeeBlueLozano-CodingTasks\FrankeeBlueLozano-CodingTasks\obj\Debug\netcoreapp3.1\FrankeeBlueLozano-CodingTasks.dll
+C:\Users\741039\Documents\Unity\Visual Studios Scripts\FrankeeBlueLozano-CodingTasks\FrankeeBlueLozano-CodingTasks\obj\Debug\netcoreapp3.1\FrankeeBlueLozano-CodingTasks.pdb
+C:\Users\741039\Documents\Unity\Visual Studios Scripts\FrankeeBlueLozano-CodingTasks\FrankeeBlueLozano-CodingTasks\obj\Debug\netcoreapp3.1\FrankeeBlueLozano-CodingTasks.genruntimeconfig.cache
